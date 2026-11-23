@@ -2,7 +2,7 @@
 
 **FundScope** is an interactive Streamlit credit risk decision-support prototype designed to assist loan officers in evaluating borrower default risk. It loads a trained **Random Forest** pipeline (`rf_pipeline_engineered.pkl`, with fallback to `rf_pipeline_baseline.pkl`), computes engineered tenure/experience ratios, estimates default probability, and assigns actionable risk tiers.
 
-**Live Deployment:** `[https://your-deployment-url.example.com]`
+**Live Deployment:** `(https://credit-risk-app-m4deudswt7sjmnkejz9ufu.streamlit.app/)`
 
 ## Data Origin and Licence
 
@@ -12,9 +12,9 @@
 
 ## Target Definition
 
-- **Target Column:** `[target_column_name—e.g., Risk_Flag / default]`
-- **Positive Class (`1` = Default / High Risk):** `[Exact definition of recorded default / higher credit risk outcome]`
-- **Negative Class (`0` = Non-Default / Low Risk):** `[Exact definition of non-default / lower credit risk outcome]`
+- **Target Column:** 
+- **Positive Class (`1` = Default / High Risk):** ``
+- **Negative Class (`0` = Non-Default / Low Risk):** 
 - **Baseline & Exclusions:** Observed baseline default rate of roughly **12.4%** in `app.py` context; `[add observation window, excluded rows/statuses, or class balance details from your notebook]`.
 
 ## Required Libraries
