@@ -3,9 +3,9 @@ import pandas as pd
 import joblib
 import numpy as np
 
-st.set_page_config(page_title="Credit Risk Decision Support App", layout="centered")
+st.set_page_config(page_title="FundScope", layout="centered")
 
-st.title("🏦 Credit Risk Decision Support Tool")
+st.title("🏦 FundScope")
 st.write("""
 This prototype application assists loan officers in analyzing applicant default risks.
 It utilizes our trained **Random Forest** pipeline to provide automated predictions, risk category explanations,
