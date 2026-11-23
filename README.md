@@ -12,10 +12,10 @@
 
 ## Target Definition
 
-- **Target Column:** 
+- **Target Column:** Risk_Flag 
 - **Positive Class (`1` = Default / High Risk):** ``
 - **Negative Class (`0` = Non-Default / Low Risk):** 
-- **Baseline & Exclusions:** Observed baseline default rate of roughly **12.4%** in `app.py` context; `[add observation window, excluded rows/statuses, or class balance details from your notebook]`.
+- **Baseline & Exclusions:** Observed baseline default rate of roughly **12.4%** in `app.py`
 
 ## Required Libraries
 
