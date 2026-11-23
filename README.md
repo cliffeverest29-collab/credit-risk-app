@@ -6,9 +6,9 @@
 
 ## Data Origin and Licence
 
-- **Source / Origin:** `[Dataset name, source, and collection period—e.g., CSE bank / loan default dataset with borrower demographic, employment, housing, and regional attributes]`
-- **Data Licence & Terms:** `[Licence name/URL and any academic, non-commercial, or privacy/anonymization terms]`
-- **Code Licence:** `[e.g., MIT License — see LICENSE]`
+- **Source / Origin:** ('/content/CSE bank data project 1.csv')
+- **Data Licence & Terms:** `(CC0 1.0, All rights reserved`)
+**Code Licence:** All rights reserved (no open-source license added yet).
 
 ## Target Definition
 
