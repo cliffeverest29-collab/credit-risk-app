@@ -8,7 +8,7 @@ st.set_page_config(page_title="FundScope", layout="centered")
 st.title("🏦 FundScope")
 st.write("""
 This prototype application assists loan officers in analyzing applicant default risks.
-It utilizes our trained **Random Forest** pipeline to provide automated predictions, risk category explanations,
+It utilizes trained **Random Forest** pipeline to provide automated predictions, risk category explanations,
 and key recommendations.
 """)
 
